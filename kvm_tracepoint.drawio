@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T03:01:51.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.3" etag="c8AHRqA8i8R6gtWZyQfD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T03:09:37.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jlZsk3fjzjTluQWmkVSh" version="24.6.3" type="github">
   <diagram name="第 1 页" id="_nb8rTLpBzsylu5gbivW">
-    <mxGraphModel>
+    <mxGraphModel dx="1886" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QqPokUQeXfg9BLI1vx3y-1" value="TRACE_EVENT(kvm_entry," style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QqPokUQeXfg9BLI1vx3y-2" value="ARM64" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="194" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QqPokUQeXfg9BLI1vx3y-4" value="trace_kvm_entry" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QqPokUQeXfg9BLI1vx3y-5" value="kvm_arch_vcpu_ioctl_run" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QqPokUQeXfg9BLI1vx3y-6" value="kvm_vcpu_ioctl" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
